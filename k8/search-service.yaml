@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: search-service
-          image: 039612866426.dkr.ecr.ap-south-1.amazonaws.com/searchsvc:latest
+          image: 978430483281.dkr.ecr.ap-south-1.amazonaws.com/searchsvc:latest
           ports:
             - containerPort: 9093
 
